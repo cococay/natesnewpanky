@@ -14,5 +14,15 @@
     "reservoir": 57.2, 
     "clock": "2016-09-10T20:11:40-05:00"
   }, 
-  "openaps": {}
+  "openaps": {
+    "iob": {
+      "netbasalinsulin": 0, 
+      "timestamp": "2016-09-11T01:42:03.000Z", 
+      "activity": 0, 
+      "basaliob": 0, 
+      "hightempinsulin": 0, 
+      "bolussnooze": 0, 
+      "iob": 0
+    }
+  }
 }
